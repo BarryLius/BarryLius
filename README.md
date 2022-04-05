@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Barry Liu,the Android developer.
+My name is Barry Liu,the Android developer.
 <!--
 **BarryLius/BarryLius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
